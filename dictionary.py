@@ -29,7 +29,16 @@ library = {
 
 
 
+# Retrieve Author 
+
+# get_book = library.get("1")
+# OPTION 1
+# author= get_book["author"]
+#print( author)
+
+#OPTION 2 
+#print( get_book['author'])
 
 
-
+#OPTION 3  print(library.get("1")["author"])
 
