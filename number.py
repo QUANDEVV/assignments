@@ -6,3 +6,6 @@ def findNumbers():
    print("second largest", num[-2])  
 findNumbers()
 
+def hello():
+   print("hello ")
+   
